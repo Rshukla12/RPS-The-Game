@@ -9,6 +9,15 @@ Python 3
 1) Pillow
 2) tKinter
 
+## Screenshots
+![](https://imgur.com/uHGXZ5l.jpg)
+![](https://imgur.com/RH5VxCI.jpg)
+### Player 1
+![](https://imgur.com/YsPGKKA.jpg)
+### Player 2
+![](https://imgur.com/SuElgrR.jpg)
+![](https://imgur.com/1hIA8DD.jpg)
+
 ## Instructions to play:-
 * run server.py file in terminal.
 * run Main.py file in second terminal.
